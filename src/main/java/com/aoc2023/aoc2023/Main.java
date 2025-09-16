@@ -1,7 +1,7 @@
 package com.aoc2023.aoc2023;
 
-import static com.aoc2023.aoc2023.challenges.day01.Day01.part1;
-import static com.aoc2023.aoc2023.challenges.day01.Day01.part2;
+import static com.aoc2023.aoc2023.challenges.day02.Day02.part1;
+import static com.aoc2023.aoc2023.challenges.day02.Day02.part2;
 
 public class Main {
     public static void main(String[] args) {
