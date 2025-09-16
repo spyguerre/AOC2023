@@ -3,6 +3,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 __pycache__/
+**/input.txt
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
